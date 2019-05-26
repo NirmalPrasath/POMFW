@@ -36,9 +36,7 @@ public class Contacts extends BasePage{
 	
 	@FindBy(xpath="//li//span[text()='Create contact']")
 	WebElement createNewContactBut;
-	
-	
-	
+
 	
 	public Contacts(WebDriver driver)
 	{
