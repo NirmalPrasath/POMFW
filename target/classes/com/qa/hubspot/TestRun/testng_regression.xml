@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Hubspot">
+
+	<test name="Regression">
+	
+	
+		
+		<classes>
+			<!--class name="com.qa.hubspot.Tests.LoginTest"/-->
+			<class name="com.qa.hubspot.Tests.HomePageTest"/>
+			<!--class name="com.qa.hubspot.Tests.ContactsPageTest"/-->
+			
+			
+		</classes>
+	</test>
+</suite>
+
+
+

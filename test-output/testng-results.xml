@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hubspot" duration-ms="125458" started-at="2019-03-11T15:26:14Z" finished-at="2019-03-11T15:28:20Z">
+    <groups>
+      <group name="title1">
+        <method signature="HomePageTest.homePageTitleTest()[pri:1, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="homePageTitleTest" class="com.qa.hubspot.Tests.HomePageTest"/>
+      </group> <!-- title1 -->
+      <group name="navigateCon">
+        <method signature="HomePageTest.navigateToContactsTest()[pri:3, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="navigateToContactsTest" class="com.qa.hubspot.Tests.HomePageTest"/>
+      </group> <!-- navigateCon -->
+    </groups>
+    <test name="Regression" duration-ms="125458" started-at="2019-03-11T15:26:14Z" finished-at="2019-03-11T15:28:20Z">
+      <class name="com.qa.hubspot.Tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="setUp" is-config="true" duration-ms="33107" started-at="2019-03-11T15:26:14Z" finished-at="2019-03-11T15:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="homePageTitleTest" duration-ms="7362" started-at="2019-03-11T15:26:47Z" finished-at="2019-03-11T15:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="tearDown" is-config="true" duration-ms="963" started-at="2019-03-11T15:26:55Z" finished-at="2019-03-11T15:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="setUp" is-config="true" duration-ms="15999" started-at="2019-03-11T15:26:56Z" finished-at="2019-03-11T15:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageHeaderTest()[pri:2, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="homePageHeaderTest" duration-ms="14783" started-at="2019-03-11T15:27:12Z" finished-at="2019-03-11T15:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="tearDown" is-config="true" duration-ms="895" started-at="2019-03-11T15:27:26Z" finished-at="2019-03-11T15:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="setUp" is-config="true" duration-ms="15125" started-at="2019-03-11T15:27:27Z" finished-at="2019-03-11T15:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToContactsTest()[pri:3, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="navigateToContactsTest" duration-ms="35589" started-at="2019-03-11T15:27:42Z" finished-at="2019-03-11T15:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.Tests.HomePageTest@4883b407]" name="tearDown" is-config="true" duration-ms="1520" started-at="2019-03-11T15:28:18Z" finished-at="2019-03-11T15:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.Tests.HomePageTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Hubspot -->
+</testng-results>
